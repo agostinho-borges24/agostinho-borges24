@@ -1,40 +1,40 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/132641272?v=4" width="110" style="border-radius:50%" />
+
 # 👨‍💻 Agostinho Borges
 
-### Desenvolvedor Full Stack • Entusiasta de Backend • Solucionador de Problemas
+**Full Stack Developer** · Angola 🇦🇴
 
-Sou desenvolvedor focado em aplicações web modernas, APIs escaláveis e sistemas de gestão.  
-Tenho experiência no desenvolvimento de plataformas completas utilizando JavaScript, Laravel, CodeIgniter 4 e MySQL.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Backend;APIs+escaláveis+%26+Sistemas+de+gestão;Código+limpo.+Soluções+reais.+🚀)](https://git.io/typing-svg)
 
-Atualmente trabalho no desenvolvimento de:
-- Sistemas de gestão de eventos
-- Plataformas de venda de ingressos
-- Dashboards administrativos
-- Integrações de pagamentos
-- APIs REST
-- Sistemas web personalizados
+</div>
 
 ---
 
-# 🚀 Stack Tecnológica
+Sou desenvolvedor focado em aplicações web modernas, APIs escaláveis e sistemas de gestão.
+Tenho experiência no desenvolvimento de plataformas completas utilizando **JavaScript**, **Laravel**, **CodeIgniter 4** e **MySQL**.
 
-## Frontend
+Atualmente trabalho no desenvolvimento de sistemas de gestão de eventos, plataformas de venda de ingressos, dashboards administrativos, integrações de pagamentos, APIs REST e sistemas web personalizados.
+
+---
+
+## 🚀 Stack Tecnológica
+
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap)
 
----
-
-## Backend
+**Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-111111?style=for-the-badge&logo=codeigniter)
 
----
-
-## Base de Dados & Ferramentas
+**Base de Dados & Ferramentas**
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
@@ -43,82 +43,70 @@ Atualmente trabalho no desenvolvimento de:
 
 ---
 
-# 📌 Projetos em Destaque
+## 📌 Projectos em Destaque
 
-## 🎟️ Plataforma de Gestão de Eventos
+### 🎟️ Plataforma de Gestão de Eventos
+Sistema completo com venda de ingressos, check-in, relatórios, dashboard administrativo, integração com pagamentos e notificações automáticas.
 
-Sistema completo de gestão de eventos com:
-- venda de ingressos
-- check-in
-- relatórios
-- dashboard administrativo
-- integração com pagamentos
-- notificações automáticas
+### 💳 Sistema de Pagamentos Online
+Checkout online com gestão de pedidos, confirmação automática, geração de comprovativos e acompanhamento de status em tempo real.
 
----
-
-## 💳 Sistema de Pagamentos Online
-
-Sistema de checkout online com:
-- pedidos
-- pagamentos
-- confirmação automática
-- geração de comprovativos
-- acompanhamento de status
+### 📊 Dashboard de Relatórios & Análises
+Dashboard administrativo com métricas, relatórios financeiros, análise de vendas, gestão de utilizadores e estatísticas em tempo real.
 
 ---
 
-## 📊 Dashboard de Relatórios & Análises
+## 🌍 Sobre Mim
 
-Dashboard administrativo para:
-- métricas
-- relatórios financeiros
-- análise de vendas
-- gestão de utilizadores
-- estatísticas em tempo real
-
----
-
-# 📈 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=agostinho-borges24&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinho-borges24&layout=compact&theme=tokyonight" />
-
----
-
-# 🔥 Foco Atual
-
-```txt
-✔ Construindo sistemas backend escaláveis
-✔ Melhorando arquitetura de software
-✔ Criando aplicações web modernas
-✔ Aprendendo mais sobre otimização de performance
-✔ Desenvolvendo melhores experiências para utilizadores
-
----
-
-# 🌍 Sobre Mim
 ```javascript
 const agostinho = {
-    location: "Angola",
-    role: "Full Stack Developer",
-    backend: ["Laravel", "CodeIgniter 4", "PHP"],
-    frontend: ["JavaScript", "HTML", "CSS", "Bootstrap"],
-    database: ["MySQL"],
-    tools: ["Git", "Docker"],
-    currentFocus: "Building scalable web platforms"
+  location:     "Angola 🇦🇴",
+  role:         "Full Stack Developer",
+  backend:      ["Laravel", "CodeIgniter 4", "PHP"],
+  frontend:     ["JavaScript", "HTML", "CSS", "Bootstrap"],
+  database:     ["MySQL"],
+  tools:        ["Git", "Docker"],
+  currentFocus: "Building scalable web platforms 🚀"
 };
 ```
 
 ---
 
-# 📫 Contato
+## 🔥 Foco Atual
 
-- LinkedIn: https://linkedin.com/in/agostinho-l-borges
-- Email: GitHub: https://github.com/agostinho-borges24
+```txt
+✔ Construindo sistemas backend escaláveis
+✔ Melhorando arquitetura de software
+✔ Criando aplicações web modernas
+✔ Aprendendo mais sobre optimização de performance
+✔ Desenvolvendo melhores experiências para utilizadores
+```
+
 ---
 
-# ⚡ Filosofia
+## 👀 Visitas ao Perfil
 
-> Código limpo. Soluções reais. Evolução constante.
+<div align="center">
+
+![Visitas](https://komarev.com/ghpvc/?username=agostinho-borges24&style=for-the-badge&color=1D9E75&label=VISITAS+AO+PERFIL)
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/agostinho-l-borges)
+[![Gmail](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:agostinholborges24@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/244932138572)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/agostinho-borges24)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Código limpo. Soluções reais. Evolução constante.</i>
+</div>
